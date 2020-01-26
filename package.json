@@ -1,0 +1,15 @@
+{
+	"name": "fourier_transform",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"deploy": "gh-pages -d dist"
+	},
+	"author": "supriyanta34@gmail.com",
+	"license": "MIT",
+	"homepage": "https://supriyanta.github.io/fourier-series",
+	"dependencies": {
+		"gh-pages": "^2.2.0"
+	}
+}
