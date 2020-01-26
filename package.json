@@ -1,7 +1,7 @@
 {
 	"name": "fourier_transform",
 	"version": "1.0.0",
-	"description": "",
+	"description": "It shows How square waves are generated",
 	"main": "main.js",
 	"scripts": {
 		"deploy": "gh-pages -d dist"
